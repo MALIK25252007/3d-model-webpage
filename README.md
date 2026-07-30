@@ -1,7 +1,8 @@
 # 🎭 3D Model Character Showcase Portfolio
 
 An interactive, visually dynamic portfolio landing page built using **HTML5, CSS3, and JavaScript**. This project showcases 3D cartoon avatar models with smooth slide transitions and dynamic theme color changes driven by state updates.
-
+## visit live server
+https://github.com/MALIK25252007/3d-model-webpage
 ---
 
 ## ✨ Features
@@ -31,7 +32,7 @@ To run this project locally, all you need is a web browser.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/3d-model-portfolio.git](https://github.com/your-username/3d-model-portfolio.git)
+   git clone [https://github.com/MALIK25252007/3d-model-webpage.git](https://github.com/MALIK25252007/3d-model-webpage.git)
    
 <br>
 1. Navigate to the project directory:
