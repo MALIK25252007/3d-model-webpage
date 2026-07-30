@@ -2,7 +2,7 @@
 
 An interactive, visually dynamic portfolio landing page built using **HTML5, CSS3, and JavaScript**. This project showcases 3D cartoon avatar models with smooth slide transitions and dynamic theme color changes driven by state updates.
 ## visit live server
-https://github.com/MALIK25252007/3d-model-webpage
+https://malik25252007.github.io/3d-model-webpage/
 ---
 
 ## ✨ Features
