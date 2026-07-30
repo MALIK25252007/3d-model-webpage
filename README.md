@@ -56,8 +56,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 🏷️ GitHub Tags / Topics
-
-Here are recommended tags to add to your repository to improve discoverability:
-
-`html5` `css3` `javascript` `figma` `3d-models` `portfolio-website` `frontend-development` `ui-ux` `slider` `interactive-design` `web-design` `cartoon-avatars` `landing-page`
